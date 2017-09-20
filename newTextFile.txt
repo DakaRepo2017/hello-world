@@ -12,3 +12,4 @@ some other new stuff bla bla balba
 
 
 another new stuff
+added new branch called MyNewBranch
