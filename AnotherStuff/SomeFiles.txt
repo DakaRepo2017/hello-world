@@ -1,3 +1,5 @@
 Some Text
 
 Added new Line
+
+Changes to the file from User 1
