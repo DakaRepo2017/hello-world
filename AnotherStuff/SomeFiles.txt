@@ -1,9 +1,15 @@
 Some Text
 dsadasdas
 
+<<<<<<< HEAD
 sadad
 asd
 as
 d
 asd
 as
+=======
+Added new Line
+
+Changes to the file from User 1
+>>>>>>> 91229799996411375d84772e1fab79af4f697ad0
